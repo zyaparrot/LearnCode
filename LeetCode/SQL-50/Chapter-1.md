@@ -54,10 +54,16 @@ Solution:
 ```
 SELECT product_id
 FROM Products
-WHERE low_fats = "Y" AND recyclable = "Y";
+WHERE low_fats = 'Y' AND recyclable = 'Y';
 ```
+텍스트를 쓸때 따옴표로 감싸는 것을 헷갈린것 말고는 별로 어려울게 없다.
 
+다만 Oracle 에서는 큰따옴표=컬럼명, 작은따옴표=문자열 이다.
 
+---
+
+<br>
+<br>
 
 # Find Customer Referee
 
@@ -118,6 +124,13 @@ SELECT name
 FROM Customer
 WHERE referee_id != 2 OR referee_id IS NULL;
 ```
+
+`NULL`의 DataType은 `Unkown` 이거나 `no data` 라는 뜻이므로 별도로 처리해야함.
+
+---
+
+<br>
+<br>
 
 # Big Countries
 
@@ -183,6 +196,16 @@ FROM World
 WHERE population >= 25000000 OR area >= 3000000;
 ```
 
+At lease = 최소한
+
+숫자가 커지면 구분해 줄 필요가 있다.
+
+  -> `FORMAT(number, decimal_places)`
+
+---
+
+<br>
+<br>
 
 # Article Views I
 Table: Views
@@ -245,6 +268,19 @@ WHERE author_id = viewer_id
 ORDER BY id;
 ```
 
+작성 순서
+
+- SELECT FROM WHERE GROUP BY HAVING ORDER BY
+
+실행 순서
+
+- FROM WHERE GROUP BY HAVING SELECT ORDER BY
+
+---
+
+<br>
+<br>
+
 # Invalid Tweets
 
 Table: Tweets
@@ -299,3 +335,7 @@ SELECT tweet_id
 FROM Tweets
 WHERE LENGTH(content) > 15;
 ```
+
+
+
+---
