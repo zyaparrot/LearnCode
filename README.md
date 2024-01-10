@@ -10,6 +10,10 @@
 
 Link : https://leetcode.com/studyplan/top-sql-50/
 
+SQL Style Guide : https://www.sqlstyle.guide/ko/
+
+BigQuery Guide Book : https://zzsza.github.io/bigquery/
+
 ### SELECT
 - [X] 1757. Recyclable and Low Fat Products
 - [X] 584. Find Customer Referee
