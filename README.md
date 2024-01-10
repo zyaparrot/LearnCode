@@ -1,5 +1,6 @@
 # LeetCode SQL 50
 > Crack SQL Interview in 50 Qs
+Link : https://leetcode.com/studyplan/top-sql-50/
 
 
 ## SELECT
@@ -73,4 +74,3 @@
 - [ ] 1327. List the Products Ordered in a Period
 - [ ] 1517. Find Users With Valid E-Mails
 
-Link : https://leetcode.com/studyplan/top-sql-50/
