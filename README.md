@@ -1,10 +1,16 @@
-# LeetCode SQL 50
-> Crack SQL Interview in 50 Qs
+# LearnCode
+
+
+<details>
+  <summary>
+    <h2>
+      LeetCode SQL 50
+    </h2>
+  </summary>
 
 Link : https://leetcode.com/studyplan/top-sql-50/
 
-
-## SELECT
+### SELECT
 - [X] 1757. Recyclable and Low Fat Products
 - [X] 584. Find Customer Referee
 - [X] 595. Big Countries
@@ -12,7 +18,7 @@ Link : https://leetcode.com/studyplan/top-sql-50/
 - [X] 1683. Invalid Tweets
 
 
-## Basic Joins
+### Basic Joins
 - [ ] 1378. Replace Employee ID With The Unique Identifier
 - [ ] 1068. Product Sales Analysis I
 - [ ] 1581. Customer Who Visited but Did Not Make Any Transactions
@@ -24,7 +30,7 @@ Link : https://leetcode.com/studyplan/top-sql-50/
 - [ ] 1934. Confirmation Rate
 
 
-## BAsic Aggregate Functions
+### Basic Aggregate Functions
 - [ ] 620. Not Boring Movies
 - [ ] 1251. Average Selling Price
 - [ ] 1075. Project Employees I
@@ -36,7 +42,7 @@ Link : https://leetcode.com/studyplan/top-sql-50/
 
 
 
-## Sorting and Grouping
+### Sorting and Grouping
 - [ ] 2356. Number of Unique Subjects Taught by Each Teacher
 - [ ] 1141. User Activity for the Past 30 Days I
 - [ ] 1070. Product Sales Analysis III
@@ -46,7 +52,7 @@ Link : https://leetcode.com/studyplan/top-sql-50/
 - [ ] 1045. Customers Who Bought All Products
 
 
-## Advanced Select and Joins
+### Advanced Select and Joins
 - [ ] 1731. The Number of Employees Which Report to Each Employee
 - [ ] 1789. Primary Department for Each Employee
 - [ ] 610. Triangle Judgement
@@ -56,7 +62,7 @@ Link : https://leetcode.com/studyplan/top-sql-50/
 - [ ] 1907. Count Salary Categories
 
 
-## Subqueries
+### Subqueries
 - [ ] 1978. Employees Whose Manager Left the Company
 - [ ] 626. Exchange Seats
 - [ ] 1341. Movie Rating
@@ -66,7 +72,7 @@ Link : https://leetcode.com/studyplan/top-sql-50/
 - [ ] 185. Department Top Three Salaries
 
 
-## Advanced String Functions / Reges / Caluse
+### Advanced String Functions / Reges / Caluse
 - [ ] 1667. Fix Names in a Table
 - [ ] 1527. Patients With a Condition
 - [ ] 196. Delete Duplicate Emails
@@ -75,3 +81,4 @@ Link : https://leetcode.com/studyplan/top-sql-50/
 - [ ] 1327. List the Products Ordered in a Period
 - [ ] 1517. Find Users With Valid E-Mails
 
+</details>
