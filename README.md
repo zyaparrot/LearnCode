@@ -7,9 +7,9 @@ Link : https://leetcode.com/studyplan/top-sql-50/
 ## SELECT
 - [X] 1757. Recyclable and Low Fat Products
 - [X] 584. Find Customer Referee
-- [ ] 595. Big Countries
-- [ ] 1148. Article Views I
-- [ ] 1683. Invalid Tweets
+- [X] 595. Big Countries
+- [X] 1148. Article Views I
+- [X] 1683. Invalid Tweets
 
 
 ## Basic Joins
