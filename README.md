@@ -1,5 +1,6 @@
 # LeetCode SQL 50
 > Crack SQL Interview in 50 Qs
+
 Link : https://leetcode.com/studyplan/top-sql-50/
 
 
