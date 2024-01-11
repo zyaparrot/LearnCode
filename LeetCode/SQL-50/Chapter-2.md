@@ -392,6 +392,7 @@ WHERE w2.temperature < w1.temperature;
 
 그리고 `WHERE <조건문>`을 이용하여 온도를 비교하면 된다.
 
+예시 입력
 ```SQL
 SELECT *
 FROM Weather AS w1
