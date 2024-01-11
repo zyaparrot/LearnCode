@@ -23,9 +23,9 @@ BigQuery Guide Book : https://zzsza.github.io/bigquery/
 
 
 ### Basic Joins
-- [ ] 1378. Replace Employee ID With The Unique Identifier
-- [ ] 1068. Product Sales Analysis I
-- [ ] 1581. Customer Who Visited but Did Not Make Any Transactions
+- [X] 1378. Replace Employee ID With The Unique Identifier
+- [X] 1068. Product Sales Analysis I
+- [X] 1581. Customer Who Visited but Did Not Make Any Transactions
 - [ ] 197. Rising Temperature
 - [ ] 1661. Average Time of Process per Machine
 - [ ] 577. Employee Bonus
