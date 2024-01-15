@@ -28,8 +28,8 @@ BigQuery Guide Book : https://zzsza.github.io/bigquery/
 - [X] 1581. Customer Who Visited but Did Not Make Any Transactions
 - [X] 197. Rising Temperature
 - [ ] 1661. Average Time of Process per Machine
-- [ ] 577. Employee Bonus
-- [ ] 1280. Students and Examinations
+- [X] 577. Employee Bonus
+- [X] 1280. Students and Examinations
 - [ ] 570. Managers with at Least 5 Direct Reports
 - [ ] 1934. Confirmation Rate
 
