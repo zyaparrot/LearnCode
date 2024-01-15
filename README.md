@@ -30,7 +30,7 @@ BigQuery Guide Book : https://zzsza.github.io/bigquery/
 - [ ] 1661. Average Time of Process per Machine
 - [X] 577. Employee Bonus
 - [X] 1280. Students and Examinations
-- [ ] 570. Managers with at Least 5 Direct Reports
+- [X] 570. Managers with at Least 5 Direct Reports
 - [ ] 1934. Confirmation Rate
 
 
